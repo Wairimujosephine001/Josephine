@@ -1,3 +1,7 @@
-.container {
-style ="text-align: center;"
+
+p {
+    color: red !important;
+    font-size: 20px;
 }
+
+
